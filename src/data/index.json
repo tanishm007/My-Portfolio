@@ -2,51 +2,61 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/icons8-html-5-80.png",
+      "title": "HTML/CSS",
+      "description": "Strong understanding of semantic HTML and CSS layout techniques.Experience with responsive web design principles. Familiarity with Tailwind CSS for rapid UI development and styling."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/icons8-javascript-80.png",
+      "title": "Javascript",
+      "description": "Advanced knowledge of JavaScript ES6+. Experience with modern JavaScript frameworks and libraries. Proficient in DOM manipulation and event handling. Familiarity with asynchronous programming, including Promises and async/await."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/icons8-react-80.png",
+      "title": "React.js",
+      "description": "Extensive experience in building UI components using React.js. Strong understanding of React Hooks and functional components. Proficient in state management using Redux or Context API. Experience with React Router for client-side routing."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/icons8-node-js-80.png",
+      "title": "Node.js & MongoDB",
+      "description": "Experience in building RESTful APIs and handling HTTP requests/responses. Proficient in database management with MongoDB, including CRUD operations. "
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/fitness-app.png",
+      "title": "Fitness",
+      "description": "Implemented a feature to display exercise details and fetch videos from YouTube via server-side API calls,resulting in a 30% increase in user engagement. Shows selected exercise details and pulls videos from Youtube by fetching API from the server. Utilizes JWT authentication with MongoDB and Express for secure user authentication",
+      "link": "https://spiffy-bubblegum-aca0b4.netlify.app/"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/foodie-app.png",
+      "title": "Foodie",
+      "description": "Users are able to search from more than 10,000 food recipesShows Gets the list to search recipes and Ingredients used, done by fetching Data from API",
+      "link": "https://foodapp-89d2.onrender.com/"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/chart-app.png",
+      "title": "Charts",
+      "description": "Developed interactive line charts using Chartjs2 to visualize complex datasets. Implemented backend API (Node.js/Express) to store and retrieve formulas and datasets for dynamic graphs.",
+      "link": "https://github.com/tanishm007/graph-assignment"
+    },
+
+    {
+      "id": "4",
+      "src": "./img/pick-users.png",
+      "title": "Pick-users",
+      "description": "Developed a React application resembling Facebook's friend list feature. Implemented functionality to filter friends based on typed letters, enabling selection and deselection of friends. Integrated dynamic updating of selected friends and removal from the filtered list upon selection",
+      "link": "https://playful-puffpuff-719178.netlify.app/"
     }
+    
+  
   ],
   "testimonial": [
     {
